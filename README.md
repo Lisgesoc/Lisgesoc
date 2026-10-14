@@ -15,11 +15,8 @@ Estudiante de ultimo curso de Ingeniería de Computadores. Especializado y sumam
 
 ## 🚀 Proyectos Destacados
 
-*Aquí es donde brillas. Selecciona tus 3 o 4 mejores proyectos para que las visitas los vean de un vistazo:*
-
 * 🏆 [**Nombre del Proyecto 1**](https://github.com/tu-usuario/tu-repo-1): *[Breve descripción de 1 o 2 líneas de qué hace el proyecto, qué problema resuelve y qué tecnologías principales usaste. Ej: Una API REST para gestión de inventarios construida con Node.js y MongoDB].*
 * 🌟 [**Nombre del Proyecto 2**](https://github.com/tu-usuario/tu-repo-2): *[Breve descripción...]*
-* 💡 [**Nombre del Proyecto 3**](https://github.com/tu-usuario/tu-repo-3): *[Breve descripción...]*
 
 👉 *Puedes explorar el resto de mis proyectos públicos en la pestaña de mis repositorios.*
 
